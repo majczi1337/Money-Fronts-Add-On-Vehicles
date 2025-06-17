@@ -7,7 +7,7 @@ New DLC cars ready to install to your FiveM server
 2. Open server.cfg and write "ensure MoneyFrontsCars"
 3. Launch server and check :)
 
-#Client Side Script
+# Client Side Script
 
 If you want to spawn vehicles using my script, you need to install the [menuv](https://github.com/ThymonA/menuv) script.
 When starting your scripts, you must first launch menuv, and then MoneyFrontsCars.
